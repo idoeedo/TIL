@@ -24,6 +24,7 @@
 | 7 | LeetCode | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [.py](leetcode/0001.py) | ✅ |
 | 8 | LeetCode | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [.py](leetcode/0042.py) | 📖 |
 | 8 | LeetCode | [15. 3Sum](https://leetcode.com/problems/3sum/) | [.py](leetcode/0015.py) | 📖 | Time Limit Exceeded
+| 9 | LeetCode | [561. Array Partition](https://leetcode.com/problems/array-partition/) | [.py](leetcode/0561.py) | ✅ | 
 
 <br><br>
 
