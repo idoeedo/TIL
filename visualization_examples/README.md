@@ -10,4 +10,4 @@ Each example is presented in a Jupyter Notebook and can be opened directly in Go
 
 | Chart Type | Colab |
 |------------|:-----:|
-| Radar Chart | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/idocommit/TIL/blob/main/data_visualization/radar_chart.ipynb) |
+| Radar Chart | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/idocommit/TIL/blob/main/visualization_examples/radar_chart.ipynb) |
