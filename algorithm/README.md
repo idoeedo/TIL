@@ -15,7 +15,8 @@
 
 | # | Platform | Problem | Code | Status | Notes |
 |:---:|--------|---------|:----:|:------:|:-----:|
-| 15 | LeetCode | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [sql](leetcode/0206.py) | ✅ |
+| 16 | LeetCode | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [.py](leetcode/0002.py) | ✅ |
+| 15 | LeetCode | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [.py](leetcode/0206.py) | ✅ |
 | 14 | LeetCode | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [.py](leetcode/0021.py) | ✅ |
 | 13 | LeetCode | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [.py](leetcode/0234.py) | ✅ |  
 | 12 | LeetCode | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [.py](leetcode/0121.py) | 📖 | Time Limit Exceeded
