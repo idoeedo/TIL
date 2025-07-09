@@ -15,6 +15,7 @@
 
 | # | Platform | Problem | Code | Status | Notes |
 |:---:|--------|---------|:----:|:------:|:-----:|
+| 17 | LeetCode | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [.py](leetcode/0024.py) | ✅ |
 | 16 | LeetCode | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [.py](leetcode/0002.py) | ✅ |
 | 15 | LeetCode | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [.py](leetcode/0206.py) | ✅ |
 | 14 | LeetCode | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [.py](leetcode/0021.py) | ✅ |
