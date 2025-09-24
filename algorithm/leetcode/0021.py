@@ -8,6 +8,9 @@ class ListNode:
         self.next = next
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def mergeTwoLists(
         self, list1: Optional[ListNode], list2: Optional[ListNode]
@@ -34,6 +37,9 @@ class MyAnswer:
         return head.next
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def mergeTwoLists(
         self, list1: Optional[ListNode], list2: Optional[ListNode]

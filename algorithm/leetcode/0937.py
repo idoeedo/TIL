@@ -2,6 +2,9 @@ from collections import defaultdict
 from typing import List
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def reorderLogFiles(self, logs: List[str]) -> List[str]:
         letter_log, digit_log = defaultdict(list), []
@@ -24,6 +27,9 @@ class MyAnswer:
         return answer
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def reorderLogFiles(self, logs: List[str]) -> List[str]:
         letters, digits = [], []

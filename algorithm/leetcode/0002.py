@@ -8,6 +8,9 @@ class ListNode:
         self.next = next
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def addTwoNumbers(
         self, l1: Optional[ListNode], l2: Optional[ListNode]
@@ -37,6 +40,9 @@ class MyAnswer:
         return head.next
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def addTwoNumbers(
         self, l1: Optional[ListNode], l2: Optional[ListNode]

@@ -1,6 +1,9 @@
 from typing import List
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def arrayPairSum(self, nums: List[int]) -> int:
         nums = sorted(nums)
@@ -13,6 +16,9 @@ class MyAnswer:
         return max_sum
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def arrayPairSum(self, nums: List[int]) -> int:
         return sum(sorted(nums)[::2])

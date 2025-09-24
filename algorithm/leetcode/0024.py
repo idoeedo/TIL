@@ -8,6 +8,9 @@ class ListNode:
         self.next = next
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
@@ -30,6 +33,9 @@ class MyAnswer:
         return answer.next
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         root = prev = ListNode(None)

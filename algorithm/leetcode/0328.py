@@ -8,6 +8,9 @@ class ListNode:
         self.next = next
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         odd_head = ListNode(1)
@@ -34,6 +37,9 @@ class MyAnswer:
         return odd_head.next
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head is None:

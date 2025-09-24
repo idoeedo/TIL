@@ -8,6 +8,9 @@ class ListNode:
         self.next = next
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         reversed_ll = None
@@ -18,6 +21,9 @@ class MyAnswer:
         return reversed_ll
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         node, prev = head, None

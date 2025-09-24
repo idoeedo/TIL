@@ -8,6 +8,9 @@ class ListNode:
         self.next = next
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         values = []
@@ -21,6 +24,9 @@ class MyAnswer:
             return False
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         rev = None

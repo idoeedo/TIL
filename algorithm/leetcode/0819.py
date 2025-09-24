@@ -3,6 +3,9 @@ from collections import Counter
 from typing import List
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
         paragraph = paragraph.lower()
@@ -16,6 +19,9 @@ class MyAnswer:
             return word
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
         words = [

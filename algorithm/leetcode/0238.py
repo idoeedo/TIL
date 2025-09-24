@@ -1,6 +1,9 @@
 from typing import List
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         left = []
@@ -22,6 +25,9 @@ class MyAnswer:
         return result
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         out = []

@@ -2,6 +2,9 @@ import sys
 from typing import List
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def maxProfit(self, prices: List[int]) -> int:
         profit = 0
@@ -14,6 +17,9 @@ class MyAnswer:
         return profit
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def maxProfit(self, prices: List[int]) -> int:
         profit = 0

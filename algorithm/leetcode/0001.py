@@ -1,6 +1,9 @@
 from typing import List
 
 
+# ==============================================================================
+# My Answer
+# ==============================================================================
 class MyAnswer:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i1, x in enumerate(nums):
@@ -11,6 +14,9 @@ class MyAnswer:
                     return [i1, i2]
 
 
+# ==============================================================================
+# Solution 1
+# ==============================================================================
 class Solution1:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         nums_map = {}
