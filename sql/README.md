@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 20 | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | LeetCode | Easy | [PostgreSQL](leetcode/1633.postgresql.sql) | 🟢 |
 | 19 | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | LeetCode | Medium | [PostgreSQL](leetcode/0177.postgresql.sql) | 🟢 |
 | 18 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | LeetCode | Medium | [PostgreSQL](leetcode/0176.postgresql.sql) | 🟢 |
 | 17 | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | LeetCode | Easy | [PostgreSQL](leetcode/0175.postgresql.sql) | 🟢 |

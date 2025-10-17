@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 20 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | Easy | [.py](leetcode/0020.py) | 🛟 |
 | 19 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | LeetCode | Medium | [.py](leetcode/0092.py) | 🛟 |
 | 18 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | LeetCode | Medium | [.py](leetcode/0328.py) | 🟢 |
 | 17 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | LeetCode | Medium | [.py](leetcode/0024.py) | 🟢 |
