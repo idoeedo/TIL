@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 22 | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | LeetCode | Medium | [PostgreSQL](leetcode/1193.postgresql.sql) | 🟢 |
 | 21 | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | LeetCode | Easy | [PostgreSQL](leetcode/1211.postgresql.sql) | 🟢 |
 | 20 | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | LeetCode | Easy | [PostgreSQL](leetcode/1633.postgresql.sql) | 🟢 |
 | 19 | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | LeetCode | Medium | [PostgreSQL](leetcode/0177.postgresql.sql) | 🟢 |
