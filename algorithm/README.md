@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 23 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | LeetCode | Easy | [.py](leetcode/0225.py) | 🟢 |
 | 22 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | [.py](leetcode/0739.py) | 🟢 |
 | 21 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | LeetCode | Medium | [.py](leetcode/0316.py) | 🛟 |
 | 20 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | Easy | [.py](leetcode/0020.py) | 🛟 |
