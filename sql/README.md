@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 24 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | [PostgreSQL](leetcode/0550.postgresql.sql) | 🟢 |
 | 23 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | LeetCode | Medium | [PostgreSQL](leetcode/1174.postgresql.sql) | 🟢 |
 | 22 | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | LeetCode | Medium | [PostgreSQL](leetcode/1193.postgresql.sql) | 🟢 |
 | 21 | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | LeetCode | Easy | [PostgreSQL](leetcode/1211.postgresql.sql) | 🟢 |
