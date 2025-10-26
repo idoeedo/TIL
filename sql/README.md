@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 26 | [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | LeetCode | Easy | [PostgreSQL](leetcode/1141.postgresql.sql) | 🟢 |
 | 25 | [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | LeetCode | Easy | [PostgreSQL](leetcode/2356.postgresql.sql) | 🟢 |
 | 24 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | [PostgreSQL](leetcode/0550.postgresql.sql) | 🟢 |
 | 23 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | LeetCode | Medium | [PostgreSQL](leetcode/1174.postgresql.sql) | 🟢 |
