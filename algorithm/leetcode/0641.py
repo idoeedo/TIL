@@ -60,7 +60,7 @@ class MyAnswer:
 # Solution 1
 # ==============================================================================
 class ListNode:
-    # Definition for doubly-linked-list
+    # Definition for doubly-linked list
     def __init__(self, x):
         self.val = x
         self.right = None
