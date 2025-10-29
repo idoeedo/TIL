@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 29 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LeetCode | Easy | [.py](leetcode/0771.py) | 🟢 |
 | 28 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | LeetCode | Easy | [.py](leetcode/0706.py) | 🟢 |
 | 27 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | LeetCode | Hard | [.py](leetcode/0023.py) | 🟢 |
 | 26 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | LeetCode | Medium | [.py](leetcode/0641.py) | 🟢 |

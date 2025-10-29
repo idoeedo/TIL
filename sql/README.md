@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 29 | [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/) | LeetCode | Easy | [PostgreSQL](leetcode/1729.postgresql.sql) | 🟢 |
 | 28 | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | LeetCode | Easy | [PostgreSQL](leetcode/0596.postgresql.sql) | 🟢 |
 | 27 | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | LeetCode | Medium | [PostgreSQL](leetcode/1070.postgresql.sql) | 🟢 |
 | 26 | [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | LeetCode | Easy | [PostgreSQL](leetcode/1141.postgresql.sql) | 🟢 |
