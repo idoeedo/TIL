@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 31 | [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | LeetCode | Medium | [PostgreSQL](leetcode/1045.postgresql.sql) | 🟢 |
 | 30 | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | LeetCode | Easy | [PostgreSQL](leetcode/0619.postgresql.sql) | 🟢 |
 | 29 | [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/) | LeetCode | Easy | [PostgreSQL](leetcode/1729.postgresql.sql) | 🟢 |
 | 28 | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | LeetCode | Easy | [PostgreSQL](leetcode/0596.postgresql.sql) | 🟢 |

@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 31 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | LeetCode | Medium | [.py](leetcode/0347.py) | 🟢 |
 | 30 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode | Medium | [.py](leetcode/0003.py) | 🟢 |
 | 29 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LeetCode | Easy | [.py](leetcode/0771.py) | 🟢 |
 | 28 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | LeetCode | Easy | [.py](leetcode/0706.py) | 🟢 |
