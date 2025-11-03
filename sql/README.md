@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 33 | [1789. Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | LeetCode | Easy | [PostgreSQL](leetcode/1789.postgresql.sql) | 🟢 |
 | 32 | [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | LeetCode | Easy | [PostgreSQL](leetcode/1731.postgresql.sql) | 🟢 |
 | 31 | [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | LeetCode | Medium | [PostgreSQL](leetcode/1045.postgresql.sql) | 🟢 |
 | 30 | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | LeetCode | Easy | [PostgreSQL](leetcode/0619.postgresql.sql) | 🟢 |
