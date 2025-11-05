@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 35 | [77. Combinations](https://leetcode.com/problems/combinations/) | LeetCode | Medium | [.py](leetcode/0077.py) | 🟢 |
 | 34 | [46. Permutations](https://leetcode.com/problems/permutations/) | LeetCode | Medium | [.py](leetcode/0046.py) | 🟢 |
 | 33 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode | Medium | [.py](leetcode/0017.py) | 🟢 |
 | 32 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | [.py](leetcode/0200.py) | 🛟 |

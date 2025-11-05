@@ -15,6 +15,7 @@
 
 | # | Title | Platform | Difficulty | Solution | Performance |
 |:---:|-----|----------|:----------:|:--------:|:-----------:|
+| 35 | [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | LeetCode | Medium | [PostgreSQL](leetcode/0180.postgresql.sql) | 🟢 |
 | 34 | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | LeetCode | Easy | [PostgreSQL](leetcode/0610.postgresql.sql) | 🟢 |
 | 33 | [1789. Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | LeetCode | Easy | [PostgreSQL](leetcode/1789.postgresql.sql) | 🟢 |
 | 32 | [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | LeetCode | Easy | [PostgreSQL](leetcode/1731.postgresql.sql) | 🟢 |
